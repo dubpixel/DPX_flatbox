@@ -1,0 +1,11 @@
+Info: Output directory 'C:\Users\miked\Documents\Projects\Flatbox-rev4-gerber' created.
+Plotted to 'C:\Users\miked\Documents\Projects\Flatbox-rev4-gerber\Flatbox-rev4-rgb-kicad-WS2812B-4020-F_Cu.gtl'.
+Plotted to 'C:\Users\miked\Documents\Projects\Flatbox-rev4-gerber\Flatbox-rev4-rgb-kicad-WS2812B-4020-B_Cu.gbl'.
+Plotted to 'C:\Users\miked\Documents\Projects\Flatbox-rev4-gerber\Flatbox-rev4-rgb-kicad-WS2812B-4020-F_Paste.gtp'.
+Plotted to 'C:\Users\miked\Documents\Projects\Flatbox-rev4-gerber\Flatbox-rev4-rgb-kicad-WS2812B-4020-B_Paste.gbp'.
+Plotted to 'C:\Users\miked\Documents\Projects\Flatbox-rev4-gerber\Flatbox-rev4-rgb-kicad-WS2812B-4020-F_Silkscreen.gto'.
+Plotted to 'C:\Users\miked\Documents\Projects\Flatbox-rev4-gerber\Flatbox-rev4-rgb-kicad-WS2812B-4020-B_Silkscreen.gbo'.
+Plotted to 'C:\Users\miked\Documents\Projects\Flatbox-rev4-gerber\Flatbox-rev4-rgb-kicad-WS2812B-4020-F_Mask.gts'.
+Plotted to 'C:\Users\miked\Documents\Projects\Flatbox-rev4-gerber\Flatbox-rev4-rgb-kicad-WS2812B-4020-B_Mask.gbs'.
+Plotted to 'C:\Users\miked\Documents\Projects\Flatbox-rev4-gerber\Flatbox-rev4-rgb-kicad-WS2812B-4020-Edge_Cuts.gm1'.
+Info: Done.

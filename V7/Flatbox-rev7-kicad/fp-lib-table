@@ -1,0 +1,8 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Kailh")(type "KiCad")(uri "${KIPRJMOD}/Kailh.pretty")(options "")(descr ""))
+  (lib (name "Type-C")(type "KiCad")(uri "${KIPRJMOD}/Type-C.pretty")(options "")(descr ""))
+  (lib (name "RP2040")(type "KiCad")(uri "${KIPRJMOD}/RP2040.pretty")(options "")(descr ""))
+  (lib (name "ARTISTS_BLINKY_v2dot0-charlie")(type "KiCad")(uri "G:/My Drive/_.DUBPIXEL/_...CIRCUIT_PROJECTS/DPX_ARTISTS_BLINKY/kicad/ARTISTS_BLINKY_v2dot0-charlie.pretty")(options "")(descr ""))
+  (lib (name "bourns")(type "KiCad")(uri "G:/My Drive/_.DUBPIXEL/_...CIRCUIT_PROJECTS/DPX_KICAD/kicad-lib/footprints/bourns.pretty")(options "")(descr ""))
+)
